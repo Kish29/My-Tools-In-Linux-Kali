@@ -1,0 +1,2 @@
+cd /root/yong
+./yong-tool.sh --uninstall
